@@ -1,41 +1,25 @@
-Last Updated: January 19, 2026
+Privacy Policy
+Last Updated: February 19, 2026
+FaceController (“we,” “our,” or “the App”) is built with a privacy-first architecture. We do not collect, store, transmit, or share any personal data. All processing occurs locally on your device.
 
-This Privacy Policy describes how FaceController ("we", "our", or "the App") handles your information. We are committed to protecting your privacy. We do not collect, store, or share your personal information or facial data.
+1. Face Data and TrueDepth Camera Usage
+FaceController utilizes Apple’s TrueDepth camera and ARKit to detect head movements and facial gestures, allowing you to control gameplay. To comply with Apple’s privacy requirements, we explicitly state the following:
+* What is used: The App accesses depth and facial tracking data provided by the TrueDepth camera.
+* How it is used: This information is processed in real-time to convert your movements and expressions into input controls (e.g., aiming, clicking, or triggering actions).
+* On-device processing: All face tracking and depth processing occurs locally on your device.
+* No storage: We do not record, capture, save, or store face data, depth data, facial geometry, images, or video.
+Face data never leaves your device. We do not share face data with any third parties, analytics providers, external servers, or advertising platforms.
 
-1. Face Data (TrueDepth API)
-
-FaceController uses the device's TrueDepth camera system (via ARKit/AVFoundation) to track your head and face movements. This allows you to control the mouse cursor and perform game actions using gestures (e.g., aiming with your head, clicking with facial expressions).
-
-To comply with Apple's data privacy guidelines, we explicitly declare the following regarding Face Data:
-
-Data Collected: The App analyzes depth data and facial mapping information from the TrueDepth camera in real-time.
-
-Purpose of Collection: This data is used solely to translate your physical head movements and facial expressions into input commands (e.g., moving a cursor or pressing a virtual button) for gameplay control.
-
-Data Storage: Face data is processed locally on your device in real-time. We do not store, save, or record your face data, depth data, or any facial mapping information.
-
-Data Sharing: We do not share, sell, or transfer face data to any third parties, including advertising platforms or analytics services. The data never leaves your device.
-
-2. Data Collection by Third Parties (Google AdMob)
-
-While the developer of FaceController does not collect your personal data, the App uses Google AdMob, a third-party advertising service, to display ads. Google AdMob may collect and use certain data to serve personalized ads and prevent fraud.
-
-Data Collected by AdMob: This may include your Device ID (such as the Identifier for Advertisers or IDFA), IP address, device model, operating system version, and general usage data.
-
-Purpose: To serve relevant advertisements, perform analytics on ad performance, and ensure security.
-
-Opt-Out: You can control personalized advertising by adjusting your device settings (Settings > Privacy > Tracking on iOS).
-
-For more information, please review Google’s Privacy Policy:
+2. Data Collection
+FaceController does not collect any personal data. To ensure your total privacy, we do not collect:
+* Names or email addresses
+* IP addresses or device identifiers
+* Usage analytics or gameplay data
+* Biometric identifiers
+Your activity within the App remains entirely on your device.
 
 3. Personal Information
+We do not require user accounts, nor do we request, collect, or store any personally identifiable information (PII).
 
-We do not knowingly collect, use, or store any personal identification information (such as your name, email address, or phone number).
-
-4. Children’s Privacy
-
-FaceController does not knowingly collect personal information from children under the age of 13. If you believe we have inadvertently collected such information, please contact us so we can remove it.
-
-5. Changes to This Policy
-
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Effective Date."
+4. Changes to This Policy
+We may update this Privacy Policy from time to time. When changes are made, we will revise the “Last Updated” date at the top of this page.
