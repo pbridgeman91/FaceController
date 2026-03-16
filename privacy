@@ -1,28 +1,46 @@
-Privacy Policy
-Last Updated: February 19, 2026
-FaceController (“we,” “our,” or “the App”) is built with a privacy-first architecture. We do not collect, store, transmit, or share any personal data. All processing occurs locally on your device.
+Last Updated: March 16, 2026
 
-1. Face Data and TrueDepth Camera Usage
-FaceController utilizes Apple’s TrueDepth camera and ARKit to detect head movements and facial gestures, allowing you to control gameplay. To comply with Apple’s privacy requirements, we explicitly state the following:
-* What is used: The App accesses depth and facial tracking data provided by the TrueDepth camera.
-* How it is used: This information is processed in real-time to convert your movements and expressions into input controls (e.g., aiming, clicking, or triggering actions).
-* On-device processing: All face tracking and depth processing occurs locally on your device.
-* No storage: We do not record, capture, save, or store face data, depth data, facial geometry, images, or video.
-Face data never leaves your device. We do not share face data with any third parties, analytics providers, external servers, or advertising platforms.
+Faceplate (“we,” “our,” or “the App”) is built with a privacy-first architecture. We do not collect, store, transmit, or share any personal data. All processing occurs locally on your device.
+
+1. Depth Data and TrueDepth Camera Usage
+Faceplate utilizes Apple’s TrueDepth camera to detect head movements, allowing you to control gameplay. To comply with Apple’s privacy requirements, we explicitly state the following:
+
+What is used: The App accesses depth tracking data provided by the TrueDepth camera.
+
+How it is used: This information is processed in real-time to convert your head movements into input controls (e.g., aiming, clicking, or triggering actions).
+
+On-device processing: All depth processing and movement tracking occurs locally on your device.
+
+No storage: We do not record, capture, save, or store depth data, images, or video.
+
+Data privacy: Tracking data never leaves your device. We do not share this data with any third parties, analytics providers, external servers, or advertising platforms.
+
+Planned uses of depth data: The accessed TrueDepth data is used exclusively in real-time to translate your physical head movements into digital input controls (e.g., aiming, clicking, or triggering in-game actions) to operate the App. We do not have any other planned uses for this data. It is not used for analytics, profiling, tracking, or any future data collection schemes.
 
 2. Data Collection
-FaceController does not collect any personal data. To ensure your total privacy, we do not collect:
-* Names or email addresses
-* IP addresses or device identifiers
-* Usage analytics or gameplay data
-* Biometric identifiers
+Faceplate does not collect any personal data. To ensure your total privacy, we do not collect:
+
+Names or email addresses
+
+IP addresses or device identifiers
+
+Usage analytics or gameplay data
+
+Biometric identifiers
+
 Your activity within the App remains entirely on your device.
-
-* Planned uses of face data: The accessed TrueDepth data is used exclusively in real-time to translate your physical head movements and facial expressions into digital input controls (e.g., aiming, clicking, or triggering in-game actions) to operate the App. We do not have any other planned uses for this data. It is not used for analytics, profiling, tracking, or any future data collection schemes.
-
 
 3. Personal Information
 We do not require user accounts, nor do we request, collect, or store any personally identifiable information (PII).
 
-4. Changes to This Policy
+4. Third-Party Backend Services & Limitations (Nvidia)
+Faceplate respects Nvidia’s choice to run the backend for our application. By using the App, you acknowledge and accept the following conditions regarding this third-party infrastructure:
+
+Risk of Disruption: If Nvidia makes decisions or changes that disrupt or break Faceplate's functionality, you accept this risk.
+
+Gatekeeping: Nvidia acts as the gatekeeper for both resolution and frame rate.
+
+Resolution Limits: Faceplate will strictly respect whatever resolutions Nvidia has to offer. Because it is the iPhone that interacts with Nvidia's backend, Faceplate's resolution is initially restricted to 1080p.
+
+5. Changes to This Policy
 We may update this Privacy Policy from time to time. When changes are made, we will revise the “Last Updated” date at the top of this page.
