@@ -3,7 +3,7 @@ Last Updated: March 16, 2026
 Faceplate (“we,” “our,” or “the App”) is built with a privacy-first architecture. We do not collect, store, transmit, or share any personal data. All processing occurs locally on your device.
 
 1. Depth Data and TrueDepth Camera Usage
-Faceplate utilizes Apple’s TrueDepth camera to detect head movements, allowing you to control gameplay. To comply with Apple’s privacy requirements, we explicitly state the following:
+Faceplate may utilizes Apple’s TrueDepth camera to detect head movements, allowing you to control gameplay. To comply with Apple’s privacy requirements, we explicitly state the following:
 
 What is used: The App accesses depth tracking data provided by the TrueDepth camera.
 
